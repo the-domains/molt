@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MOLT]]></title>
         <description><![CDATA[MOLT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/molt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 17:35:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 02:14:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/molt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[ ]]></title>
-            <description><![CDATA[<article><h1></h1><p>I am passionate about business acceleration. The one thing that excites me the most is altering the slope of business growth, anti-clockwise. I have encountered and addressed various challenges to make this happen for the companies I have worked for and for my clients. I have offered numerous offerings to them - Business Strategy, Marketing Strategy, Process Reengineering, IT systems, Organisation Design, etc. These have also yielded fantastic results.</p></article>]]></description>
-            <link>undefined15df2e98-3523-4811-95a0-c98f2464250c/index.html</link>
+            <title><![CDATA[New Challenges, New Creation]]></title>
+            <description><![CDATA[<article><h1>New Challenges, New Creation</h1><p>There is a challenge that has eluded me till now though – how to alter the way people behave in an organisation to fulfil on the created future. A future with a much steeper growth. I have used all the available knowledge in the Human Resources domain to deal with this but the results have been limited. In the beginning, it seems like it’s working. People are excited, motivated, and enthusiastic. One week, one month, one year later is a different experience though. It all seems to have been in vain. Some change happened for sure but it’s nothing compared to what was required to realise the new vision.</p></article>]]></description>
+            <link>https://thegrid.ai/molt/15df2e98-3523-4811-95a0-c98f2464250c/index.html</link>
             <guid isPermaLink="false">15df2e98-3523-4811-95a0-c98f2464250c</guid>
-            <pubDate>Sat, 23 Apr 2016 17:35:27 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2016 02:14:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
