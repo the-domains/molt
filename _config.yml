@@ -1,20 +1,4 @@
-name: MOLT
-favicon: null
-layout_spectrum: 0.44358
 typography_spectrum: 0.73507
-title: Theatre Based Leadership Training Program
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ed3338'
@@ -26,4 +10,20 @@ color:
   lightness: 0.1542916763573885
   saturation: 0.7219369488302618
   rhythmicContrast: 0.3290591682307422
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.44358
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: MOLT
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Theatre Based Leadership Training Program
 purpose: []
